@@ -3,12 +3,21 @@
 apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/wellzin-blip/new2022/master/Painel-V2022/instpainel.sh)
 ```
 
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/Digulgasoft/new2022/master/Painel-V2022/instpainel.sh)
+```
+
 # SINCRONIZAR NA VPS SSH! ATUALIZAÇÃO 13/05/2022.
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/wellzin-blip/new2022/master/Painel-V2022/sincpainel.sh)
 ```
 
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Digulgasoft/new2022/master/Painel-V2022/sincpainel.sh)
+```
+
 # CHECKUSER PARA O APP CONECTA4G! ATUALIZAÇÃO 14/05/2022.
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/wellzin-blip/new2022/master/Painel-V2022/instcheck.sh)
+```
+
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Digulgasoft/new2022/master/Painel-V2022/instcheck.sh)
 ```
